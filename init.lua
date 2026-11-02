@@ -6,7 +6,7 @@
 rq.log("Chest Safe luck: explode still happens; next red gets +this attempt's %")
 
 if not rq.chest.install() then
-  error("chest-safe-luck: rq.chest.install failed (see mods/rqmod.log)")
+  error("chest-safe-luck: rq.chest.install failed (see logs/rqmod.log)")
 end
 
 rq.chest.on_attempt(function(info)
