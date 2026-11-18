@@ -2,6 +2,16 @@
 
 A red chest that explodes makes the next red chest easier to open.
 
+## Showcase
+
+### Base Odd
+
+<img width="1268" height="567" alt="image" src="https://github.com/user-attachments/assets/a2bd3a0a-c519-43ad-9c83-30eb807596be" />
+
+### Increased Odd
+
+<img width="1238" height="662" alt="image" src="https://github.com/user-attachments/assets/a4a1cafe-e88b-4335-b348-3f3b40ed9bf1" />
+
 ## What it changes
 
 - A red chest still explodes on a failed open, as in the game.
